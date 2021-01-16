@@ -1,3 +1,3 @@
 # Picture4Yearbook2021West
 
-![sometext](https://github.com/bobdinh139/Picture4YearBook2021West/Somename.png?raw=true)
+![sometext](https://raw.githubusercontent.com/bobdinh139/Picture4Yearbook2021West/main/Somename.png)
